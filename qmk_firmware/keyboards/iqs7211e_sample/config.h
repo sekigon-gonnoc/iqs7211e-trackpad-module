@@ -1,0 +1,9 @@
+#pragma once
+
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP18
+#define I2C1_SCL_PIN GP19
+
+#define MOUSE_EXTENDED_REPORT
+
+#define AZOTEQ_IQS7211E_RDY_PIN 21

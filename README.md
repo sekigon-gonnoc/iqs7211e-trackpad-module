@@ -35,4 +35,5 @@ Auto-KDKやtorabo-tsuki LPのコネクタと同一電極面のFPCで接続でき
   - [torabo-tsuki LPに取り付けるサンプル](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp/tree/torapa-tsuki)
     - [3dmodels](./3dmodels/)の中のモデルを3Dプリンタで印刷して、本モジュールをtorabo-tsuki LPのボトムプレートに取り付けられます。
     - torapa-tsukiブランチをビルドして書き込んでください。
-- [qmk用ドライバ](./qmk_driver)
+- [QMK用サンプル](./qmk_firmware)
+    - ピン設定はAuto-KDKコントローラに合わせてあります。必要に応じてconfig.hを編集してください。

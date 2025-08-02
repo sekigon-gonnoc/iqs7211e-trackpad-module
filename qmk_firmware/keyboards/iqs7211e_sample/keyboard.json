@@ -1,0 +1,43 @@
+{
+    "manufacturer": "sekigon-gonnoc",
+    "keyboard_name": "iqs7211e_sample",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": true,
+        "extrakey": false,
+        "mousekey": false,
+        "nkro": false,
+        "pointing_device": true
+    },
+    "matrix_pins": {
+        "direct": [
+            [
+                "GP0"
+            ]
+        ]
+    },
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0,
+                    "w": 1,
+                    "h": 1
+                }
+            ]
+        }
+    }
+}

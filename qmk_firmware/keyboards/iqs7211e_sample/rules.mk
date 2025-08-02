@@ -1,3 +1,4 @@
 POINTING_DEVICE_DRIVER = custom
 SRC += azoteq_iqs7211e.c
 I2C_DRIVER_REQUIRED = yes
+    
