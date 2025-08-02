@@ -32,4 +32,5 @@ Auto-KDKやtorabo-tsuki LPのコネクタと同一電極面のFPCで接続でき
 ## サンプルプログラム
 
 - [zmk-driver-iqs7211e](https://github.com/sekigon-gonnoc/zmk-driver-iqs7211e)
+  - [torabo-tsuki LPに取り付けるサンプル](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp/tree/torapa-tsuki)
 - [qmk用ドライバ](./qmk_driver)
